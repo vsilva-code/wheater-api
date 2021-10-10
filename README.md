@@ -1,8 +1,8 @@
 # API Wheather - Projeto desenvolvido no Bootcamp DIO Capgemini : API para consulta de previsão do tempo.
-Linguagens utilizadas: Html,Css,Typescript,Javascript e Angular.
+Utilizando: Html,Css,Typescript,Javascript e Angular.
 
 
-## DioPrevisaoTempo
+## Dio Previsao do Tempo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
